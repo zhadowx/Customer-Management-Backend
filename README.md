@@ -79,3 +79,34 @@ backend/
 ├── app.js
 ├── server.js
 └── package.json
+
+## Available Scripts
+
+- `npm start`: Starts the server with nodemon.
+
+## Dependencies
+
+- `cors`: ^2.8.5
+- `dotenv`: ^16.4.5
+- `express`: ^4.19.2
+- `mongoose`: ^8.4.3
+- `morgan`: ^1.10.0
+
+## DevDependencies
+
+- `cross-env`: ^7.0.3
+- `eslint`: ^8.57.0
+- `eslint-config-airbnb`: ^19.0.4
+- `eslint-config-prettier`: ^9.1.0
+- `eslint-plugin-import`: ^2.29.1
+- `eslint-plugin-jsx-a11y`: ^6.8.0
+- `eslint-plugin-node`: ^11.1.0
+- `eslint-plugin-prettier`: ^5.1.3
+- `eslint-plugin-react`: ^7.34.1
+- `ndb`: ^1.1.5
+- `nodemon`: ^3.1.3
+- `prettier`: ^3.2.5
+
+## Node Version
+
+This project requires Node.js version 20.0.0 or higher.
