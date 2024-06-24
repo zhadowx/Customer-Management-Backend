@@ -30,8 +30,8 @@ This is the backend for the customer management application. It provides a RESTf
    ```env
    NODE_ENV=development
    PORT=3000
-   DATABASE=
-   DATABASE_PASSWORD=
+   DATABASE=YOUR-DATABASE
+   DATABASE_PASSWORD=YOUR-DATABSE-PASSWORD
    ```
 
    **Note:** The MongoDB connection string and password is not shared as it is linked to a personal account. Please use your own MongoDB credentials.
